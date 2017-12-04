@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: bccbf84898268e74f9ff7bf60215bfbf
+timeCreated: 1512380276
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - iBlock: {fileID: 1687079073428660, guid: e2a66b945b158ec41b6242b53141a6c4, type: 2}
+  - lBlock: {fileID: 1568193646617398, guid: 319b2b7e3388cc7449ee9fd52fb1b65f, type: 2}
+  - oBlock: {fileID: 1787355322585080, guid: e71c01b8a07b9b943a02c51de4b6dc30, type: 2}
+  - sBlock: {fileID: 1504521270067318, guid: 99cf4604e5023ca4fb745dafc710c9b8, type: 2}
+  - tBlock: {fileID: 1687993748871166, guid: a0c42b6176e4f3046a0a25471dfddcce, type: 2}
+  - zBlock: {fileID: 1350151435427498, guid: 724736216a8ff444bb53af45b1f896ba, type: 2}
+  - jBlock: {fileID: 1991410788328702, guid: f2bd34e50a0627b4e8f35fca2383325f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
